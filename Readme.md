@@ -1,6 +1,6 @@
 # Target 60 questions in 5 days
 
-9/60
+10/60
 
 # 1️⃣ Arrays (Very Frequently Asked)
 1. ~~Two Sum~~
@@ -12,7 +12,7 @@
 7. ~~Rotate Array~~
 8. ~~Merge Sorted Arrays~~
 9. ~~Find the Missing Number~~
-10. Container With Most Water
+10. ~~Container With Most Water~~
 
 # 2️⃣ Strings (Extremely Important)
 
