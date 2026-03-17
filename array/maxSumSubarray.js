@@ -29,7 +29,6 @@ function maxSubArray(arr) {
         currSum = Math.max(curr, curr + currSum)
         maxSum = Math.max(maxSum, currSum)
     }
-
     return maxSum;
 }
 

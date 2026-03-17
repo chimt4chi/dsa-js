@@ -7,7 +7,7 @@
 2. ~~Best Time to Buy and Sell Stock~~
 3. ~~Maximum Subarray (Kadane’s Algorithm)~~
 4. ~~Product of Array Except Self~~
-5. Move Zeroes
+5. ~~Move Zeroes~~
 6. Remove Duplicates from Sorted Array
 7. Rotate Array
 8. Merge Sorted Arrays
