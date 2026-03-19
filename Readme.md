@@ -18,7 +18,7 @@
 
 1. ~~Valid Palindrome~~
 2. ~~Longest Substring Without Repeating Characters~~
-3. Group Anagrams
+3. ~~Group Anagrams~~
 4. ~~Valid Anagram~~
 5. Longest Common Prefix
 6. ~~Reverse Words in a String~~
@@ -32,7 +32,7 @@
 
  - Used a lot in React/JS interviews.
 1. Frequency Counter Problems
-2. Two Sum using HashMap
+2. ~~Two Sum using HashMap~~
 3. Contains Duplicate
 4. Top K Frequent Elements
 5. Subarray Sum Equals K
