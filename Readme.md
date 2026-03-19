@@ -30,13 +30,13 @@
 
 # 3️⃣ HashMap / HashSet Problems
 
-1. Used a lot in React/JS interviews.
+ - Used a lot in React/JS interviews.
+1. Frequency Counter Problems
 2. Two Sum using HashMap
 3. Contains Duplicate
 4. Top K Frequent Elements
 5. Subarray Sum Equals K
 6. Longest Consecutive Sequence
-7. Frequency Counter Problems
 
 # 4️⃣ Sliding Window (Very Popular)
 

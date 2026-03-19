@@ -26,21 +26,15 @@ function productExceptSelf(nums) {
     const prefix = Array(n).fill(1)
     const suffix = Array(n).fill(1)
     const res = Array(n)
-
     for(let i=1; i<n; i++) {
         prefix[i] = prefix[i-1] * nums[i-1]
     }
-
     for(let j=n-2; j>=0; j--) {
         suffix[j] = suffix[j+1] * nums[j+1]
     }
-
     for(let i=0; i<n; i++) {
         res[i] = suffix[i] * prefix[i]
     }
-
     return res;
 };
-
-
 console.log(productExceptSelf(nums))

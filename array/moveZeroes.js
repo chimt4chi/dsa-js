@@ -36,14 +36,15 @@ function swap(arr, i, j) {
 
 
 function moveZeroes(nums) {
+    const n = nums.length
     let index = 0;
-    for(let i=0; i<nums.length; i++) {
+    for(let i=0; i<n; i++) {
         if(nums[i] !== 0) {
             nums[index++] = nums[i];
         }
     }
 
-    while(index < nums.length) {
+    while(index < n) {
         nums[index++] = 0
     }
 
