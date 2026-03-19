@@ -1,6 +1,6 @@
 # Target 60 questions in 5 days
 
-14/60
+16/60
 
 # 1️⃣ Arrays (Very Frequently Asked)
 1. ~~Two Sum~~
@@ -20,7 +20,7 @@
 2. ~~Longest Substring Without Repeating Characters~~
 3. ~~Group Anagrams~~
 4. ~~Valid Anagram~~
-5. Longest Common Prefix
+5. ~~Longest Common Prefix~~
 6. ~~Reverse Words in a String~~
 7. First Non-Repeating Character
 8. String Compression
