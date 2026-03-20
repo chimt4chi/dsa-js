@@ -1,6 +1,6 @@
 # Target 60 questions in 5 days
 
-16/60
+17/60
 
 # 1️⃣ Arrays (Very Frequently Asked)
 1. ~~Two Sum~~
